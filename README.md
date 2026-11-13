@@ -1,4 +1,4 @@
-### Hey! 👋
+### Hey folks! 👋
 
 <p align="center">
   <a href="https://github.com/jeantimex/neofetch-profile">
