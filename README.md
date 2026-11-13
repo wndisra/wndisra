@@ -6,7 +6,7 @@ technology stacks. Full professional proficiency in English; native Indonesian.
 
 |                                   Me Before AI                                   |                                  Me After AI                                   |
 | :------------------------------------------------------------------------------: | :----------------------------------------------------------------------------: |
-| <img src="./assets/icons/gif/coder-before-ai.gif" alt="Before AI" width="400" /> | <img src="./assets/icons/gif/coder-after-ai.gif" alt="After AI" width="400" /> |
+| <img src="./assets/icons/gif/coder-before-ai.gif" alt="Before AI" width="250" /> | <img src="./assets/icons/gif/coder-after-ai.gif" alt="After AI" width="250" /> |
 
 ### Lets Connect
 
